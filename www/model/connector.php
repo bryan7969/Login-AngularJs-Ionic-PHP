@@ -2,10 +2,7 @@
 //Área de conexión a base de datos
 function getConnection() {
 
-	/*$dbhost="redmkt.com.mx";
-	$dbuser="u129844_root";
-	$dbpass="Guidored01";
-	$dbname="u1298844_gastosv2";*/
+	
 	$dbhost="localhost";
 	$dbuser="root";
 	$dbpass="";
